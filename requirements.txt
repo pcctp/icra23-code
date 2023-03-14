@@ -1,0 +1,11 @@
+numpy
+networkx
+matplotlib
+scipy
+astar
+scikit-fmm
+sklearn
+python-tsp
+otrools
+graphviz
+opencv-python
